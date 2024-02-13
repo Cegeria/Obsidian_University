@@ -1,0 +1,12 @@
+#prog
+[[alg_cormen.pdf]]
+[[systems_networks.pdf]]
+[[Fundamentals_algs_C++.pdf]]
+[[MatLab.pdf]]
+[[progintro.pdf]]
+[[paradigms.pdf]]
+[[shen-progbook.pdf]]
+[[Вержбицкий ЧМ.pdf]]
+[[Вёрстка в LaTeX.pdf]]
+[[databases_Date.pdf]]
+[[unit testing.pdf]]

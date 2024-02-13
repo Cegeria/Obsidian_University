@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "714db72c8988a7ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "98616bc228376327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1ed80034a5387d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad367116b50a2595",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f86233e03c8ab6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb2ad0999c93eb78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64863f6fc24dfe0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3d3d2bd25ec9524",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31d5eaa976e88995",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea13261f6fa2f190",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "541cbcc22cc5dd78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c832ea160ac2863",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6890239f9e3842b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88f6595323558805",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b1ed80034a5387d6",
+  "lastOpenFiles": [
+    "study/Статьи.md",
+    "study/Uni hub.md",
+    "study/Theoretical mechanics.md",
+    "study/English for computing.md",
+    "study/English drive.md",
+    "study/Databases.md",
+    "study",
+    "prog/unit testing.pdf",
+    "prog/systems_networks.pdf",
+    "prog/shen-progbook.pdf",
+    "prog/progintro.pdf",
+    "prog/paradigms.pdf",
+    "prog/databases_Date.pdf",
+    "prog/Unit testing.md",
+    "prog/Programming.md",
+    "prog/MatLab.pdf",
+    "prog/ML.md",
+    "prog/C++.md",
+    "prog/Books.md",
+    "prog",
+    "latex/Вёрстка в LaTeX.pdf",
+    "latex/Learn.md",
+    "D_M/notes.md",
+    "D_M/Practice.md",
+    "D_M/Discrete Math.md",
+    "D_M/2. Classwork.md",
+    "D_M/1. Set problem.md",
+    "D_M/1. Ontology.md",
+    "Ч_М/Численные методы.md",
+    "Ч_М/Ч_М_6.md",
+    "Ч_М/Ч_М_5.md",
+    "Ч_М/Ч_М_4.md",
+    "Ч_М/Ч_М_3.md",
+    "Ч_М/Ч_М_2.md",
+    "Ч_М/Ч_М_1.md",
+    "Ч_М/Отчёт по Ч_М.md"
+  ]
+}
