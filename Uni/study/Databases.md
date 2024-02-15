@@ -54,3 +54,15 @@ Second idea: create second table
 - department manager
 First table has to refer to a second table, so as second to first - there is need in protocols.
 There are languages for data orders
+
+
+# Second lecture
+## Semantic data model
+1976, Chen, "Entity-relationship"
+Graphical representation of relations and objects
+Three main terms:
+1. Entity - represented with a rectangle
+2. Relation
+3. Atribute - represented with a circle
+
+![[Examples.pdf]]
