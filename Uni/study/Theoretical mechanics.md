@@ -90,3 +90,5 @@ and
 $$
 m\overline{r_c} \times \ddot{\overline{r_c}} + \overline{K_c} = \overline{r_c} \times \overline{F^e} + \overline{M_c^e}
 $$
+
+# The inertia tensor
