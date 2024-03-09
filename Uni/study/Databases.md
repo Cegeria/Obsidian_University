@@ -66,3 +66,4 @@ Three main terms:
 3. Atribute - represented with a circle
 
 ![[Examples.pdf]]
+# Third lecture
